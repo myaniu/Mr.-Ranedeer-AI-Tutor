@@ -100,7 +100,7 @@
             "communication_style": [],
             "tone_style": [],
             "reasoning_framework": [],
-            "language": "English (Default)"
+            "language": "Chinese"
         },
         "formats": {
             "Description": "These are the formats for the AI tutor's output.",
